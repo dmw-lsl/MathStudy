@@ -38,11 +38,11 @@ Git是一个版本控制工具。简单的说，就是相当于一个网盘功�
 
 #### 1. 在GitHub网站上新建一个repository
 
-![image-20250102110749772](C:\Users\liushuolin\AppData\Roaming\Typora\typora-user-images\image-20250102110749772.png)
+![image-20250102110749772](./Git学习.assets/image-20250102110749772-1735795227857-2.png)
 
 如上图，在dashboard页面下方，点击new，然后看下图
 
-![image-20250102111122045](C:\Users\liushuolin\AppData\Roaming\Typora\typora-user-images\image-20250102111122045.png)
+![image-20250102111122045](./Git学习.assets/image-20250102111122045-1735795260750-5.png)
 
 #### 2. 从GitHub拉取文件到本地
 
@@ -50,21 +50,21 @@ Git是一个版本控制工具。简单的说，就是相当于一个网盘功�
 
 点击最右侧头像
 
-![image-20250102111401341](C:\Users\liushuolin\AppData\Roaming\Typora\typora-user-images\image-20250102111401341.png)
+![](./Git学习.assets/image-20250102111401341.png)
 
 选择your repositories
 
-![image-20250102111438216](C:\Users\liushuolin\AppData\Roaming\Typora\typora-user-images\image-20250102111438216.png)
+![image-20250102111438216](./Git学习.assets/image-20250102111438216-1735795289495-9.png)
 
 就能看到自己所有创建的repository，任意点击其中一个，如图点取
 
-![image-20250102111612482](C:\Users\liushuolin\AppData\Roaming\Typora\typora-user-images\image-20250102111612482.png)
+![image-20250102111612482](./Git学习.assets/image-20250102111612482-1735795298682-12.png)
 
 ##### 方式二（推荐）
 
 打开GitHub desktop，依次点击File->clone a repository
 
-![image-20250102111907747](C:\Users\liushuolin\AppData\Roaming\Typora\typora-user-images\image-20250102111907747.png)
+![image-20250102111907747](./Git学习.assets/image-20250102111907747-1735795319778-15.png)
 
 如上图，可选择GitHub.com标签，点选自己所需要的repository
 
