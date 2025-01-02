@@ -18,7 +18,7 @@ Git是一个版本控制工具。简单的说，就是相当于一个网盘功�
 
 ### 1. 安装Git
 
-可从https://git-scm.com/downloads下载，然后一路默认安装
+可从https://git-scm.com/downloads  下载，然后一路默认安装
 
 使用`win+R`快捷键，输入`cmd`回车，在命令行窗口输入`git -v`，出现版本信息即安装成功
 
