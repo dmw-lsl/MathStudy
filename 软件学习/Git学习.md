@@ -28,11 +28,11 @@ Git是一个版本控制工具。简单的说，就是相当于一个网盘功�
 
 温馨提示：此步骤或许需要VPN翻墙
 
-输入网址：https://github.com/按提示输入邮箱和密码，用户名注册即可。
+输入网址：https://github.com/  按提示输入邮箱和密码，用户名注册即可。
 
 ### 3. 安装GitHub客户端
 
-可以从https://github.com/apps/desktop下载安装
+可以从https://github.com/apps/desktop  下载安装
 
 ## 二、具体操作步骤
 
@@ -69,5 +69,4 @@ Git是一个版本控制工具。简单的说，就是相当于一个网盘功�
 如上图，可选择GitHub.com标签，点选自己所需要的repository
 
 也可以在URL标签下，第一个框中将GitHub上项目地址复制上，在第二个框中选择本地存储的文件夹，再点击clone即可完成
-
 
